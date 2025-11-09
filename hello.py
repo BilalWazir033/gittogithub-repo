@@ -3,3 +3,5 @@ print("Hello Git")
 print("It's me Bilal") 
 def printpro():
     print("This is the printpro function.")
+for i in range(4):
+    print("Welcome")
